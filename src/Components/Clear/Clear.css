@@ -5,8 +5,9 @@
     align-items: center;
     font-weight: lighter;
     font-size: 1.4em;
-    background-color: #c5c3cd;
+    background-color: #6b6b64;
     color: black;
     flex: 1;
     outline: 1px solid black;
+    border-radius: 0px 0px 10px 10px;
 }

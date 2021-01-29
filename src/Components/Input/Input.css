@@ -5,8 +5,9 @@
     align-items: center;
     font-weight: bold;
     font-size: 1.4em;
-    background-color: black;
+    background-color: #d6d5bc;
     color: white;
     padding: 2.5em;
     outline: 1px solid black;
+    border-radius: 10px 10px 0px 0px;
 }
